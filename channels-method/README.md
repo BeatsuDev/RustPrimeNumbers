@@ -5,8 +5,11 @@ cargo run -- --start <start range> --end <end range> --threads <thread count> --
 ```
 
 start: Start range
+
 end: End range
+
 threads: Amount of threads to use
+
 print_results: Whether to print the prime numbers found immediately once they have been found. 1 = True, 0 = False.
 
 ### Speeding up the program
